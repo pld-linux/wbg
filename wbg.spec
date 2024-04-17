@@ -1,11 +1,11 @@
 Summary:	Super simple wallpaper application for Wayland compositors
 Name:		wbg
-Version:	1.1.0
+Version:	1.2.0
 Release:	1
 License:	MIT
 Group:		Applications
 Source0:	https://codeberg.org/dnkl/wbg/archive/%{version}.tar.gz
-# Source0-md5:	75f9dd94f1f736b2839c6e1211b733a5
+# Source0-md5:	0d3f6a5e7f785271915a648d1a6375f8
 URL:		https://codeberg.org/dnkl/wbg/
 BuildRequires:	libjpeg-devel
 BuildRequires:	libpng-devel
