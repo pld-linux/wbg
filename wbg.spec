@@ -14,7 +14,7 @@ BuildRequires:	meson >= 0.58.0
 BuildRequires:	ninja
 BuildRequires:	pixman-devel
 BuildRequires:	pkgconfig
-BuildRequires:	rpmbuild(macros) >= 1.736
+BuildRequires:	rpmbuild(macros) >= 2.042
 BuildRequires:	tllist-devel >= 1.0.1
 BuildRequires:	wayland-devel
 BuildRequires:	wayland-protocols
